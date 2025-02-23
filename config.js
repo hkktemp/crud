@@ -1,5 +1,5 @@
 // config.js
 module.exports = {
-  IP: "localhost",
-  PORT: 3000,
+  IP: "0.0.0.0",
+  PORT: process.env.PORT,
 };
