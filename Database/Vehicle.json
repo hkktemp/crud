@@ -1,11 +1,20 @@
 [
   {
     "phoneNumber": "+919992206916",
-    "name": "Ooooo",
-    "numberPlate": "OOOOO",
-    "image": "/images/OOOOO.jpg",
-    "longitude": 75.3535237,
-    "latitude": 29.5082203,
-    "rate": "69"
+    "name": "Hhhh",
+    "numberPlate": "HHHH",
+    "image": "/images/HHHH.jpg",
+    "longitude": 75.3537887,
+    "latitude": 29.5082789,
+    "rate": "55"
+  },
+  {
+    "phoneNumber": "+919992206916",
+    "name": "Jjjjjj",
+    "numberPlate": "JJJJJ",
+    "image": "/images/JJJJJ.jpg",
+    "longitude": 75.3537887,
+    "latitude": 29.5082789,
+    "rate": "66"
   }
 ]
